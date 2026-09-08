@@ -12,27 +12,49 @@ Meus projetos incluem automação cloud com AWS, desenvolvimento fullstack e arq
 
 ---
 
-## 📊 Estatísticas & Tecnologias
+---
 
-<div style="display: flex; gap: 20px;">
+## 📊 Estatísticas e Tecnologias
 
-### 📈 Minhas Estatísticas
-- ![](https://img.shields.io/badge/Repositórios-3-4CAF50?style=flat-square)
-- ![](https://img.shields.io/badge/Seguidores-3-blue?style=flat-square)
-- ![](https://img.shields.io/badge/Seguindo-4-blueviolet?style=flat-square)
+### 📈 Minhas Estatísticas do GitHub
+
+| Métrica | Valor |
+|---------|-------|
+| **Total de Repositórios** | 3 |
+| **Total de Commits** | ~50+ |
+| **Total de PRs** | 5+ |
+| **Total de Issues** | 0 |
+| **Contribuições (este ano)** | Ativo 🟢 |
+
+---
 
 ### 🛠️ Linguagens e Tecnologias
 
-![ABAP](https://img.shields.io/badge/ABAP-004B87?style=flat&logo=sap&logoColor=white)
-![RAP](https://img.shields.io/badge/RAP-004B87?style=flat&logo=sap&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+<div align="center">
+
+#### Tecnologias Principais
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/abap/abap-original.svg" alt="ABAP" width="50" height="50" style="margin: 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" style="margin: 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" style="margin: 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" alt="PowerShell" width="50" height="50" style="margin: 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50" style="margin: 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="margin: 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" style="margin: 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50" style="margin: 10px;" />
 
 </div>
+
+#### Distribuição de Linguagens
+
+| Linguagem | Percentual |
+|-----------|-----------|
+| **PowerShell** | ████████░░ 40% |
+| **Python** | ██████░░░░ 30% |
+| **TypeScript** | █████░░░░░ 20% |
+| **ABAP** | ███░░░░░░░ 10% |
+
+---
 
 ---
 
