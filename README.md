@@ -1,155 +1,114 @@
-# 👋 Victor Oliveira
+# 👨🏻‍💻 Victor Oliveira
 
-**Desenvolvedor SAP ABAP | RAP | Integração de Sistemas**
+**`Desenvolvedor SAP ABAP | RAP | Integração de Sistemas`**
 
----
+Me chamo Victor Oliveira e sou desenvolvedor especializado em **SAP ABAP** com foco em aplicações modernas usando **RAP (RESTful ABAP Programming)**. Tenho experiência em soluções de integração de sistemas, automação cloud com AWS e arquitetura de aplicações enterprise. Sou apaixonado por tecnologia e estou sempre buscando aprofundar meus conhecimentos em novas tecnologias e melhores práticas.
 
-## 🔍 Sobre mim
-
-Me chamo Victor Oliveira, tenho experiência em desenvolvimento **SAP ABAP** com foco em aplicações modernas usando **RAP (RESTful ABAP Programming)**. Sou especialista em soluções de integração de sistemas e otimização de processos ERP. Combinei meus conhecimentos técnicos com paixão por criar soluções escaláveis e eficientes.
-
-Meus projetos incluem automação cloud com AWS, desenvolvimento fullstack e arquitetura de aplicações enterprise. Estou sempre buscando aprofundar conhecimentos em novas tecnologias e melhores práticas.
-
----
-
----
-
-## 📊 Estatísticas e Tecnologias
-
-### 📈 Minhas Estatísticas do GitHub
-
-| Métrica | Valor |
-|---------|-------|
-| **Total de Repositórios** | 3 |
-| **Total de Commits** | ~50+ |
-| **Total de PRs** | 5+ |
-| **Total de Issues** | 0 |
-| **Contribuições (este ano)** | Ativo 🟢 |
+<p align="left">
+    <a href="https://github.com/vituGiovani?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/vituGiovani?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/vituGiovani?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/vituGiovani?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
 
 ---
 
-### 🛠️ Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologias
 
-<div align="center">
+<img 
+    align="left" 
+    alt="ABAP"
+    title="ABAP" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/abap/abap-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PowerShell"
+    title="PowerShell" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Node.js" 
+    title="Node.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="AWS" 
+    title="AWS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
 
-#### Tecnologias Principais
+<br/>
+<br/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/abap/abap-original.svg" alt="ABAP" width="50" height="50" style="margin: 10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" style="margin: 10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" style="margin: 10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" alt="PowerShell" width="50" height="50" style="margin: 10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50" style="margin: 10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="margin: 10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" style="margin: 10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50" style="margin: 10px;" />
+### 📊 Estatísticas
 
-</div>
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=vituGiovani&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
-#### Distribuição de Linguagens
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vituGiovani&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
-| Linguagem | Percentual |
-|-----------|-----------|
-| **PowerShell** | ████████░░ 40% |
-| **Python** | ██████░░░░ 30% |
-| **TypeScript** | █████░░░░░ 20% |
-| **ABAP** | ███░░░░░░░ 10% |
-
----
-
----
-
-## 💼 Projetos em Destaque
-
-### 🔴 [EC2-Connect.ps1](https://github.com/vituGiovani/EC2-Connect.ps1)
-Provisionamento automatizado de instâncias **EC2** na AWS. Script PowerShell para automação completa de ambientes na nuvem.
-
-**Tecnologias:** `PowerShell` `AWS EC2` `Automação` `Cloud`
-
----
-
-### 🐍 [AWS_reStart](https://github.com/vituGiovani/AWS_reStart)
-Projeto de formação AWS explorando serviços cloud e melhores práticas na plataforma.
-
-**Tecnologias:** `Python` `AWS` `Cloud` `DevOps`
-
----
-
-### 💻 [My-Portfolio](https://github.com/vituGiovani/My-Portfolio)
-Portfolio pessoal mostrando experiência e projetos principais.
-
-**Tecnologias:** `TypeScript` `Web Development` `Frontend`
-
----
-
-## 🎯 Habilidades Principais
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-### 🏢 SAP & Enterprise
-- ABAP Development
-- RAP Applications
-- System Integration
-- ERP Solutions
-
-</td>
-<td align="center" width="50%">
-
-### ☁️ Cloud & Infrastructure
-- AWS Services
-- EC2 Management
-- Cloud Architecture
-- DevOps Tools
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-### 💬 Languages
-- PowerShell
-- Python
-- TypeScript
-- JavaScript
-
-</td>
-<td align="center" width="50%">
-
-### 🔧 Tools & Platforms
-- Git & GitHub
-- VS Code
-- SAP GUI
-- AWS Console
-
-</td>
-</tr>
-</table>
-
----
-
-## 🎓 Sempre Aprendendo
-
-Atualmente estudando e aprofundando em:
-- ✅ Arquitetura de aplicações SAP moderna
-- ✅ Melhores práticas ABAP e RAP
-- ✅ Integração de APIs e Microserviços
-- ✅ Soluções Cloud e DevOps
-
----
-
-## 📱 Conecte-se comigo
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/vituGiovani)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:seu.email@example.com)
-
----
-
-<div align="center">
-
-### 💡 Sempre aberto a novas oportunidades e colaborações!
-
-![Profile Views](https://komarev.com/ghpvc/?username=vituGiovani&style=flat-square&color=blue) · ⭐ Sinta-se à vontade para entrar em contato!
-
-</div>
+</p>
