@@ -27,11 +27,11 @@ Me chamo Victor Oliveira e sou desenvolvedor especializado em **SAP ABAP** com f
 
 <img 
     align="left" 
-    alt="ABAP"
-    title="ABAP" 
+    alt="SAP ABAP"
+    title="SAP ABAP" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/abap/abap-original.svg" 
+    src="https://img.icons8.com/color/96/000000/console.png" 
 />
 <img 
     align="left" 
@@ -39,7 +39,7 @@ Me chamo Victor Oliveira e sou desenvolvedor especializado em **SAP ABAP** com f
     title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
 />
 <img 
     align="left" 
@@ -47,7 +47,7 @@ Me chamo Victor Oliveira e sou desenvolvedor especializado em **SAP ABAP** com f
     title="TypeScript" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" 
 />
 <img 
     align="left" 
@@ -55,7 +55,7 @@ Me chamo Victor Oliveira e sou desenvolvedor especializado em **SAP ABAP** com f
     title="JavaScript"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
 />
 <img 
     align="left" 
@@ -63,7 +63,7 @@ Me chamo Victor Oliveira e sou desenvolvedor especializado em **SAP ABAP** com f
     title="PowerShell" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" 
 />
 <img 
     align="left" 
@@ -71,7 +71,7 @@ Me chamo Victor Oliveira e sou desenvolvedor especializado em **SAP ABAP** com f
     title="Node.js"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" 
 />
 <img 
     align="left" 
@@ -79,7 +79,7 @@ Me chamo Victor Oliveira e sou desenvolvedor especializado em **SAP ABAP** com f
     title="AWS"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" 
 />
 <img 
     align="left" 
@@ -87,7 +87,7 @@ Me chamo Victor Oliveira e sou desenvolvedor especializado em **SAP ABAP** com f
     title="Git"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" 
 />
 
 <br/>
@@ -100,15 +100,14 @@ Me chamo Victor Oliveira e sou desenvolvedor especializado em **SAP ABAP** com f
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=vituGiovani&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vituGiovani&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    align="left" 
+    alt="Top Langs" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vituGiovani&theme=tokyonight&layout=compact&langs_count=9" 
   />
 
 </p>
